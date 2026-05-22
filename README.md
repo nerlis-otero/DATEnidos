@@ -63,3 +63,9 @@ Abre tu consola de comandos (Terminal o CMD) y escribe:
 ```bash
 git clone [https://github.com/nerlis-otero/DATEnidos.git](https://github.com/nerlis-otero/DATEnidos.git)
 cd cdatproyecto1
+
+### 3. Instalar las Dependencias
+Instala eficientemente todas las librerías científicas requeridas ejecutando:
+```bash
+pip install -r requirements.txt
+
