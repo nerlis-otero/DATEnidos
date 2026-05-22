@@ -6,7 +6,7 @@
 
 Este repositorio contiene el ecosistema analítico interactivo desarrollado para explorar, limpiar, procesar y modelar estadísticamente las dinámicas demográficas, temporales y espaciales de los ciudadanos colombianos privados de la libertad en el extranjero.
 
-Proyecto académico presentado en la **XXV Feria de Proyectos de Ingeniería** de la **Universidad Tecnológica de Bolívar (UTB)**.
+Proyecto académico presentado en la **FERIA DE PROYECTOS DE CIENCIA DE DATOS** de la **Universidad Tecnológica de Bolívar (UTB)**.
 
 ---
 
