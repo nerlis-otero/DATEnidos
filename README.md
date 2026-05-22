@@ -24,7 +24,7 @@ Proyecto académico presentado en la **FERIA DE PROYECTOS DE CIENCIA DE DATOS** 
 | :--- | :--- |
 | `dashboard.py` | Código fuente principal de la aplicación interactiva desarrollada en **Streamlit**. |
 | `Analisis_Colombianos_Detenidos_v2.ipynb` | Jupyter Notebook con la exploración inicial, pipeline de limpieza y contrastes estadísticos. |
-| `datos_limpios.csv` | Dataset depurado (Data Sample) listo para alimentar los gráficos del sistema. |
+| `Colombianos_detenidos_en_el_exterior_20260427.csv` | Dataset depurado (Data Sample) listo para alimentar los gráficos del sistema. |
 
 ---
 
