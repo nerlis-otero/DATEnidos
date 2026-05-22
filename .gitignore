@@ -1,0 +1,10 @@
+# Carpetas basura de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
