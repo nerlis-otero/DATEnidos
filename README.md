@@ -71,7 +71,3 @@ Instala eficientemente todas las librerías científicas requeridas ejecutando:
 ```bash
 pip install -r requirements.txt
 
-
-
-
-
